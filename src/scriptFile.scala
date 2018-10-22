@@ -1,0 +1,1 @@
+http://wiki.jikexueyuan.com/project/sbt-getting-started/install-sbt.html
